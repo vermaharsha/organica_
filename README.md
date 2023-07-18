@@ -88,6 +88,3 @@ Here's a glimpse of the Organica website:
 
 ![Web capture_16-7-2023_141840_7rajnishsharma github io](https://github.com/vermaharsha/Docsy/assets/111423734/92819c13-b140-49ed-ae89-c9784831867c)
 
-For a fully interactive experience, please visit [Organica](https://vermaharsha.github.io/organica_/).
-
-Feel free to explore the website and discover the features and information it offers.
