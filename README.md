@@ -73,17 +73,12 @@ The Organica website is designed to be intuitive and user-friendly. Visitors can
 Contributions to the Organica website are welcome. If you would like to contribute, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch for your feature or bug fix:
-   bash
-   git checkout -b feature/your-feature-name
    
-3. Make your changes and commit them with descriptive messages:
-   bash
-   git commit -m "Add your commit message here"
+2. Create a new branch for your feature or bug fix
    
-4. Push your changes to your forked repository:
-   bash
-   git push origin feature/your-feature-name
+3. Make your changes and commit them with descriptive messages
+   
+4. Push your changes to your forked repository
    
 5. Open a pull request on the main repository and provide a clear description of your changes.
 
